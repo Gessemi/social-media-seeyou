@@ -1,87 +1,84 @@
-# CARROSSEL 01 — "Você grava pra pessoa errada"
+# CARROSSEL 01 — "O quebra-cabeça de quem você é"
 ### Base: conteúdo-luana-01 (Luana Carolina — a lógica por trás de bom conteúdo)
 
-**Objetivo:** Autoridade (topo) — entregar valor e provar que o estúdio entende de conteúdo.
-**Pecado dominante:** IRA (capa, nomeia o erro do mercado) → ORGULHO (virada).
-**Estrutura:** Mito → Verdade.
-**Gatilhos (2):** Reciprocidade + Autoridade.
+**Tópico único:** a imagem que a audiência tem de você é montada peça por peça — e quem escolhe as peças é você.
+**Objetivo:** Autoridade (topo).
+**Pecado dominante:** ORGULHO (como você é percebido / ser visto como referência).
+**Estrutura:** metáfora-condutora (quebra-cabeça) do gancho ao CTA.
+**Gatilhos (2):** Autoridade + Reciprocidade.
 **Formato:** 6 slides.
 
-> Diagnóstico interno — nada disso vai na tela. A legenda é trabalho da `skill-legendas`, não entra aqui.
+> Diagnóstico interno — não vai na tela. Legenda é escopo da `skill-legendas`.
 
 ---
 
 ## SLIDE 1 — CAPA
 
-**O que trava o seu conteúdo não é o algoritmo.**
+**A sua audiência tá montando um quebra-cabeça de quem você é.**
 
-**É que você grava pra você mesmo.**
+E quem entregou as peças foi você — só que quase sempre sem perceber.
 
-> *Peça visual: só o texto, contraste alto, sem foto poluída. A capa é 80% do trabalho — ela abre a lacuna, não resume o carrossel.*
+> *Peça visual: fundo limpo, contraste alto, a frase de cima em destaque. A capa abre a lacuna (quais peças? como acerto?) — não resume o resto.*
 
 ---
 
 ## SLIDE 2 — CONTEXTO
 
-Conteúdo bom não é o que **você** acha bonito.
+Ninguém entende quem você é num post só.
 
-É o que gera no outro a reação que você quer: comprar, responder, salvar.
+A pessoa junta o story de hoje, o Reels de ontem, a foto da semana passada — e vai formando, peça por peça, uma imagem sua na cabeça dela.
 
-Se não gera reação nenhuma, não é conteúdo. É diário público.
-
----
-
-## SLIDE 3 — ENTREGA (erro 1)
-
-**Erro 1: você fala de dentro da sua bolha.**
-
-Você joga o termo técnico e pula o contexto — porque na *sua* cabeça já faz sentido.
-
-Igual quem vive de finanças e acha óbvio que todo mundo sabe o que é CDI.
-
-Só que quem tá do outro lado não tem acesso ao que roda na sua cabeça. Ele vê um fragmento solto e passa.
+É essa imagem montada que decide se ela confia, se ela compra, se ela te indica.
 
 ---
 
-## SLIDE 4 — ENTREGA (erro 2)
+## SLIDE 3 — DESENVOLVIMENTO
 
-**Erro 2: você grava achando que vão assistir até o fim.**
+Aí mora o problema.
 
-Não vão. A pessoa decide nos primeiros segundos se fica.
+Se você posta pouco, entrega peças de menos: a pessoa fica com meio quebra-cabeça e larga.
 
-Se o seu vídeo só faz sentido inteiro, pra maioria ele não faz sentido nenhum.
-
-O ponto principal vai no começo — não no final que quase ninguém alcança.
+Se você posta sempre a mesma coisa — o mesmo café da manhã, o mesmo bordão — você entrega a mesma peça repetida. Ela não completa nada. Só empilha.
 
 ---
 
-## SLIDE 5 — VIRADA / PAYOFF
+## SLIDE 4 — DESENVOLVIMENTO (a virada de tensão)
 
-A virada é simples:
+E quando você posta no aleatório, sem pensar? Pior.
 
-grava pra quem **não sabe nada** do assunto, põe o principal na frente e faz cada trecho valer sozinho.
+A pessoa tenta montar com peças que não conversam entre si. O que aparece é uma quimera — uma imagem torta, que não é você.
 
-Isso não é sobre câmera cara. É sobre intenção.
-
-E intenção é o que a gente ajusta no roteiro **antes** de apertar REC — em toda gravação aqui no estúdio.
+É assim que acontece o pior: você queria ser visto como referência, e te veem como só mais um.
 
 ---
 
-## SLIDE 6 — CTA (Reciprocidade)
+## SLIDE 5 — PAYOFF
 
-Esses são os 2 testes que a gente passa em todo roteiro antes de gravar.
+A saída tem duas partes, e elas andam juntas.
 
-**Salva esse carrossel** e roda ele no teu próximo conteúdo, antes de postar.
+**Intenção:** decidir a imagem que você quer que montem. "Quero que me vejam como quem entende disso de verdade."
 
-> *(Estúdio entra de forma orgânica no slide 5. CTA único: salvar. Direct fica pra legenda, se fizer sentido.)*
+**Estratégia:** escolher de propósito as peças que provam isso — o bastidor, o processo, o resultado real.
+
+Não é postar mais. É postar a peça certa. E fazer cada conteúdo ser a peça certa do seu quebra-cabeça é, no fundo, o nosso trabalho aqui — luz, áudio e edição são só o meio.
+
+---
+
+## SLIDE 6 — CTA
+
+Essa semana, antes de postar qualquer coisa, pergunta: *"que peça isso adiciona à imagem que eu quero?"*
+
+E se quiser enxergar de fora: manda **"quebra-cabeça"** no nosso direct. A gente olha seu feed e te diz qual imagem ele tá montando hoje — e qual dava pra montar.
+
+> *(Chamada nasce da metáfora: leitura de feed de graça. Reciprocidade + autoridade. Um CTA só — o direct.)*
 
 ---
 
 ### Checklist de pré-publicação (aplicado)
+- [x] Um tópico só, desenvolvido do começo ao fim pela mesma metáfora (quebra-cabeça).
+- [x] Sem formato de "lista de erros" — as falhas aparecem dentro da história, não como itens.
+- [x] Correlação fechada: peças → imagem → confiança/compra (slide 2) puxa slides 3–4 e resolve em intenção + estratégia (slide 5).
+- [x] Analogia completa: peças de menos, peça repetida, peças que não conversam (quimera) e a peça certa.
 - [x] Capa com posição + lacuna, sem "arraste pra saber mais".
-- [x] Slide 2 não repete a capa (reframe do que é "conteúdo bom").
-- [x] Uma ideia por slide; cada slide dá motivo pra virar.
-- [x] Loop principal fecha no slide 5 (virada); estúdio entra na virada, não depois.
-- [x] Um pecado dominante (IRA → ORGULHO); 2 gatilhos (Reciprocidade + Autoridade).
-- [x] Um CTA só (salvar).
-- [x] Sem palavra inflada, sem simetria robótica, sem case inventado — referência real (finanças/CDI) mantida como ilustração, não como case do estúdio.
+- [x] Estúdio entra na virada de forma orgânica; CTA único e interessante (diagnóstico de feed no direct).
+- [x] Sem case inventado; referências (café da manhã, bordão, quimera) são ilustração, não case do estúdio.
