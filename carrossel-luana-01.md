@@ -74,6 +74,22 @@ E se quiser enxergar de fora: manda **"quebra-cabeça"** no nosso direct. A gent
 
 ---
 
+---
+
+## LEGENDA (feed) — 453/500 caracteres
+
+Você posta todo dia e mesmo assim ninguém sabe direito o que você faz?
+
+Estratégia de conteúdo não é frequência, é intenção. No automático, a percepção que fica na cabeça de quem te acompanha sai torta — quase nunca a de autoridade que você queria. Escolher o que mostrar, de propósito, separa quem é lembrado de quem só aparece no feed.
+
+Salva e revê isso antes do próximo post.
+
+#estrategiadeconteudo #marketingdigital #socialmedia #produçãodeconteudo
+
+> Keyword literal: **estratégia de conteúdo** (início). Ângulo novo (frequência × intenção), sem repetir frases do carrossel. 1 CTA (salvar). 4 hashtags: 1 ampla + 3 de nicho.
+
+---
+
 ### Checklist de pré-publicação (aplicado)
 - [x] Um tópico só, desenvolvido do começo ao fim pela mesma metáfora (quebra-cabeça).
 - [x] Sem formato de "lista de erros" — as falhas aparecem dentro da história, não como itens.
